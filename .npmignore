@@ -1,0 +1,8 @@
+/example
+/.idea
+/node_modules
+.watchmanconfig
+.eslintrc.json
+package-lock.json
+yarn.lock
+.gitignore
