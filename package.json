@@ -1,6 +1,6 @@
 {
   "name": "react-native-overlay-popover",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Pure javascript popover component for react native.",
   "main": "index.js",
   "scripts": {
